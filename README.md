@@ -170,6 +170,6 @@ application.secret_key = 'megasecretkey'
 Visit the Catalog App at http://35.180.79.12 or http://35.180.79.12.xip.io
 
 ## Resources
--https://tutorials.ubuntu.com/tutorial/install-and-configure-apache#3
--Dealing with the psycopg2-binary warning: https://github.com/psycopg/psycopg2/issues/674
--https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps#stepfour-%E2%80%93-configure-and-enable-a-new-virtual-host
+- https://tutorials.ubuntu.com/tutorial/install-and-configure-apache#3
+- Dealing with the psycopg2-binary warning: https://github.com/psycopg/psycopg2/issues/674
+- https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps#stepfour-%E2%80%93-configure-and-enable-a-new-virtual-host
